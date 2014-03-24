@@ -12,6 +12,7 @@ public class sdsdf {
     
     public void main(){
         System.out.println("kaara");
+         System.out.println("kaara");
     }
     
 }
