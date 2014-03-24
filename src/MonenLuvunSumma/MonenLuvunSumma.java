@@ -18,7 +18,7 @@ public class MonenLuvunSumma {
         
         int = monenLuvunSumma = summa(summa(1, 2), summa(eka, toka));
         
-        System.out.println("Summa: " + summa);        
+        System.out.println("Summa: " + monenLuvunSumma);        
         
     }
     public static int summa(int luku1, int luku2) {
