@@ -10,4 +10,8 @@
  */
 public class sdsdf {
     
+    public void main(){
+        System.out.println("kaara");
+    }
+    
 }
