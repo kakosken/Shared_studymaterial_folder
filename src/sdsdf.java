@@ -15,7 +15,8 @@ public class sdsdf {
          System.out.println("kaara");
          System.out.println("kaara");
           System.out.println("kaara2222222");   
-       System.out.println("ooota - joo");   
+       System.out.println("ooota - joo");  
+       System.out.println("ooota - joo"); 
     }
     
 }
