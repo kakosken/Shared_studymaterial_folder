@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package Harjoitukset_MOOC_Viikko2;
+package MonenLuvunSumma;
 
 /**
  *
@@ -16,13 +16,13 @@ public class MonenLuvunSumma {
         int eka = 3;
         int toka = 2;
         
-        int = monenLuvunSumma = summa(summa(1,2), summa(eka, toka));
+        int = monenLuvunSumma = summa(summa(1, 2), summa(eka, toka));
         
         System.out.println("Summa: " + summa);        
         
     }
-    public static int summa(int monenLuvunSumma) {
-    return monenLuvunSumma;
+    public static int summa(int luku1, int luku2) {
+    return luku1+luku2;
 }
     
 }
