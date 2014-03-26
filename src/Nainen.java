@@ -21,6 +21,24 @@ public class Nainen {
         System.out.println("pinppi");
         System.out.println("perse");
         System.out.println("vagina");
+        System.out.println("gina");
     }
     
 }
+
+/**
+ Ohjeet:
+ Kun teet muutoksen tiedostoon:
+ 1. Tallenna (Save)
+ 2. Tiedoston kohdalla tossa project-valikossa paina
+ tiedoston kohdalla oikeaa hiiren korvaa,
+ ja valitse Commit ... & kuittaa
+ 3. Projektin kohdalla elikkä testaus, niin hiiren korvaa auki,
+ * sitten Git -> Remote -> Push ... (EI Push to Upstream)
+ 4. Muiden tekemät jutut saa githubista,
+ * kun projektin kohdalla saman kaavan kautta
+ * Git -> Remote -> Pull ..., niin hakee tavarat tuolta 
+ * githubista (eli jos tulee jotain virheitä tai muita,
+ * niin muista aina Pull ..:ta eka.
+ * hmm hmm... Näytän...
+ */
