@@ -43,8 +43,8 @@ public class OmiaMetodeja
         
         System.out.println("");
         System.out.println("*********************************************");
-        System.out.println("Kiitoksia tilauksesta:");
         System.out.println("Lopullinen hinta on: " + lopullinenHinta + " euroa");
+        System.out.println("Kiitoksia tilauksesta ja tervetuloa uudelleen!");
         System.out.println("*********************************************");
 
     }
