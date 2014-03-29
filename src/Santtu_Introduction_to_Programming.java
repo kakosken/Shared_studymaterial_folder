@@ -25,6 +25,7 @@ public class Santtu_Introduction_to_Programming {
        }
         //int index = 0;
         //for (int suit = 0; suit <= 3; suit++) 
+       // 
               
     }
 }
