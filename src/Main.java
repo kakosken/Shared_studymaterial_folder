@@ -39,9 +39,9 @@ public class Main {
         frame.getContentPane().add(paneeli, BorderLayout.CENTER);
         frame.getContentPane().add(aloitus, BorderLayout.WEST);
 
-                JButton button = new JButton(" >> JavaProgrammingForums.com <<");
+                JButton pelaa = new JButton(" >> JavaProgrammingForums.com <<");
         //Add action listener to button
-        button.addActionListener(new ActionListener() {
+        pelaa.addActionListener(new ActionListener() {
  
             public void actionPerformed(ActionEvent e)
             {
@@ -50,7 +50,7 @@ public class Main {
             }
         });      
  
-        frame.getContentPane().add(button);
+        frame.getContentPane().add(pelaa);
 
         frame.setVisible(true);
 

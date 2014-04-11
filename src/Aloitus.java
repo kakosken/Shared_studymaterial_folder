@@ -23,6 +23,7 @@ JPanel paneeli = new JPanel();
 private JLabel pelaajaLabel = new JLabel ("Pelaaja 1: ");
 private JTextField pelaaja1 = new JTextField("Syötä nimesi ");
 
+
 private JLabel pelaajaLabel2 = new JLabel ("Pelaaja 2: ");
 private JTextField pelaaja2 = new JTextField("Syötä nimesi ");
 
