@@ -11,6 +11,7 @@
 public class akakapuutto {
     public void nopeaHuoli() {
         System.out.println("Rikiiiii....!!");
+        System.out.println("Rikiiiii....!!");
         
     }
 }
